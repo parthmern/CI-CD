@@ -8,7 +8,7 @@ import { TextInput } from "@repo/ui/textinput";
 import { createOnRampTransaction } from "../app/lib/actions/createOnRamptxn";
 
 const SUPPORTED_BANKS = [{
-    name: "HDFC Bank",
+    name: "HDFC Banks",
     redirectUrl: "https://netbanking.hdfcbank.com"
 }, {
     name: "Axis Bank",
